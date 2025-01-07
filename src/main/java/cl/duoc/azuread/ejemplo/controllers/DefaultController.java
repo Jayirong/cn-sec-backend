@@ -12,6 +12,6 @@ public class DefaultController {
 	public String mensaje() {
 
 		System.out.println("Backend llamado");
-		return "{\"mensaje\": \"Integración OK al backend\"}";
+		return "{\"mensaje\": \"Integración OK al backend miau :)\"}";
 	}
 }
